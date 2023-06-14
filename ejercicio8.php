@@ -4,7 +4,7 @@
         $valorB=$_POST['valorB'];
 
         if($valorA > $valorB){
-           echo"El valor de A es mayor que el valor de B";
+           echo"El valor de A es mayor que el valor de B" ;
         }
 
     }
